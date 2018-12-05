@@ -1,4 +1,7 @@
 # AboutUs-Android
+
+Easy way to create AboutUs screen for android apps. You can customise the screen according to your needs.
+
 # Integration
 
 ### Step 1. Add it in your root build.gradle at the end of repositories:
