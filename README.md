@@ -2,6 +2,11 @@
 
 Easy way to create AboutUs screen for android apps. You can customise the screen according to your needs.
 
+# Used In Projects
+1- [**Router Admin | Speed Test**](https://play.google.com/store/apps/details?id=com.sumar.routeradminspeedtest)<br>
+
+Feel free to tell us about your project, so that we can enlist it here.
+
 # Sample Screenshot
 
 ![Screenshot](screenshot.jpg)
